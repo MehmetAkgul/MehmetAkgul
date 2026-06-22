@@ -1,28 +1,29 @@
 <!--
   PROFİL REPO'SU: github.com/MehmetAkgul/MehmetAkgul  (repo adı == kullanıcı adı → profilde görünür)
-  Bu dosya o repo'nun README.md'si olacak.
 -->
 
 <!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:b45309&height=170&section=header&text=Mehmet%20Akg%C3%BCl&fontSize=46&fontColor=fef3c7&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20SaaS%20Founder&descSize=18&descColor=fbbf24&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:b45309&height=170&section=header&text=Mehmet%20Akg%C3%BCl&fontSize=46&fontColor=fef3c7&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20Team%20Lead&descSize=18&descColor=fbbf24&descAlignY=62" />
 
+<!-- sabit stack satırı — animasyon yok, sönmez -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+%C2%B7+PHP%2FLaravel+%C2%B7+Vue+3;Architecting+multi-agent+systems+with+Claude+Code;Founder+of+a+SaaS+product+portfolio;Open+to+US+%2F+remote+roles" alt="typing" />
+  <b>Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; PHP / Laravel &nbsp;·&nbsp; Vue 3</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MehmetAkgul&label=Profile%20views&color=f59e0b&style=flat-square" alt="views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3400&pause=1000&color=F59E0B&center=true&vCenter=true&width=720&lines=Architecting+multi-agent+systems+with+Claude+Code;Building+kurpanel.com+%E2%80%94+a+TR+FX+%26+gold+SaaS;Open+to+US+%2F+remote+roles" alt="typing" />
 </p>
 
 <!-- ================= ABOUT ================= -->
 ### &nbsp; ▍About
 
-Backend engineer and SaaS founder. I design **Java / Spring Boot** services and **PHP / Laravel** web apps, build front-ends in **Vue 3**, and **architect & orchestrate multi-agent AI systems** with Claude Code — where I own the design, review and the pipeline rather than hand-writing every line.
+Backend engineer and team lead. I design **Java / Spring Boot** services and **PHP / Laravel** web apps, build front-ends in **Vue 3**, and **architect & orchestrate multi-agent AI systems** with Claude Code — owning the design, review and pipeline rather than hand-writing every line.
 
 ```
 focus     ·  Backend services · SaaS products · Multi-agent orchestration
-building  ·  A self-healing CI pipeline driven by 20+ specialized agents
-founder   ·  ShippingLot (B2B logistics) + a SaaS product portfolio
+building  ·  kurpanel.com — TR currency & gold SaaS
+          ·  A self-healing CI pipeline driven by 20+ specialized agents
+role      ·  Team Lead @ ShippingLot (B2B logistics)
 based     ·  Türkiye  →  open to US / remote
 ```
 
@@ -60,7 +61,7 @@ based     ·  Türkiye  →  open to US / remote
 ### &nbsp; ▍Featured Work
 
 **🟡 [currency-api-tr](https://github.com/MehmetAkgul/currency-api-tr)** &nbsp;·&nbsp; Free TR currency & gold API
-> TCMB + truncgil aggregation, bid/ask spread, refreshed every 5 min via GitHub Actions, served over a CDN. Powers a production SaaS dashboard.
+> TCMB + truncgil aggregation, bid/ask spread, refreshed every 5 min via GitHub Actions, served over a CDN. Powers **kurpanel.com** in production.
 
 **🟡 [spring-boot-microservices-series3](https://github.com/MehmetAkgul/spring-boot-microservices-series3)** &nbsp;·&nbsp; Spring Boot microservices
 > Hands-on distributed-systems patterns — service decomposition, REST, MVC.
@@ -80,8 +81,10 @@ based     ·  Türkiye  →  open to US / remote
 ### &nbsp; ▍Connect
 
 <p>
+  <a href="https://kurpanel.com"><img src="https://img.shields.io/badge/kurpanel.com-0f172a?style=flat-square&logo=googlechrome&logoColor=f59e0b" /></a>
   <a href="https://www.linkedin.com/in/mehmet-akgul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:development@shippinglot.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info@kurpanel.com"><img src="https://img.shields.io/badge/info@kurpanel.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b45309,100:0f172a&height=90&section=footer" />
+<!-- ================= FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b45309,100:0f172a&height=110&section=footer&text=Let%27s%20build%20something&fontSize=18&fontColor=fef3c7&fontAlignY=72" />
